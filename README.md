@@ -1,10 +1,10 @@
 # Sistema-de-Reserva-de-Salones-de-Clase
 
-### Tecnologías utilizadas:
+### *Tecnologías utilizadas:*
   - APACHE
   - MySQL
   - XAMPP
-### Lenguajes y frameworks:
+### *Lenguajes y frameworks:*
   - PHP
   - SQL
   - HTML
